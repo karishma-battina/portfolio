@@ -4,10 +4,6 @@ Hi! I’m Karishma, a DevOps Engineer originally from India and now based in the
 
 I’m passionate about technology and thrive on exploring new languages and frameworks, improving performance, and tackling real-world challenges that make a difference.
 
-Outside of work, I enjoy photography, cooking, and engaging in DIY projects. I’m also an avid reader of software development and philosophical books, drawing inspiration from my background in humanism.
-
-
-![Photography](/assets/img/photography.png)
 
 ## Technical Skills
 DevOps, Azure, IaC, Terraform, GitLab, Docker, Kubernetes, Ansible, Jenkins, Python, Prometheus, Grafana, ELK Stack
